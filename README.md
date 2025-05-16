@@ -5,16 +5,16 @@ iTask is a simple and intuitive Todo List application built using **React.js**. 
 
 ### Through this project, I explored and applied core React concepts such as:
 
-• Components
-• React Hooks (useState, useEffect)
-• Props and state management
-• Event handling
-• Working with localStorage for data persistence
+• Components  
+• React Hooks (useState, useEffect)  
+• Props and state management  
+• Event handling  
+• Working with localStorage for data persistence  
 
 ### The app allows users to:
 
-• Add new tasks
-• Edit existing tasks
-• Mark tasks as completed or not
-• Delete tasks
-• Filter to view only completed or all tasks
+• Add new tasks  
+• Edit existing tasks  
+• Mark tasks as completed or not  
+• Delete tasks  
+• Filter to view only completed or all tasks  
