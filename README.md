@@ -1,7 +1,7 @@
 # Project Title: iTask - Todo List Application 📃📝
 
 ### 🌐 My Published Website
-[Click here to view my site](https://raviraj-01.github.io/todo-react/)
+[Click here to view my site](https://todo-react-by-rr.vercel.app/)
 
 ## Description:
 iTask is a simple and intuitive Todo List application built using **React.js**. This project allows users to easily add, edit, delete, and track the completion of their tasks. It features persistent storage using localStorage, ensuring your tasks are saved even after refreshing or reopening the browser.This is my first project in React, created as part of my journey into learning and understanding modern frontend development.
